@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(248, 242, 149, 0.643);
+}
+
+#products {
+  padding-top: 2rem;
+  background-color: rgba(248, 242, 149, 0.643);
+}
+
+section {
+  padding-top: 5rem;
+}
